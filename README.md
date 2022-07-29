@@ -4,10 +4,10 @@ Thank you for joining us for the workshop! We wanted to give you some resources 
 
 ## High Altitude Balloons
 
-- [TryValley Balloon project - Science from some idiots](https://www.youtube.com/channel/UCK0MQpBM3eZti4WmKj5qICQ)
 - [Our running porject with Mclean county schools](https://github.com/StateFarm-STEM/pyinthesky)
   - [Overview](https://github.com/StateFarm-STEM/pyinthesky/tree/main/HAB%20Launch)
   - [NCHS](https://github.com/StateFarm-STEM/pyinthesky/blob/main/nchs/readme.md)
+  - [TryValley Balloon project - Science from some idiots](https://www.youtube.com/channel/UCK0MQpBM3eZti4WmKj5qICQ)
 - [Overlook Horizon](https://www.overlookhorizon.com/how-to-launch-weather-balloons/)
 - [Kaymont Balloons](https://www.kaymont.com/resources)
 

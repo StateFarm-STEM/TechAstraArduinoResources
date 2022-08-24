@@ -10,6 +10,7 @@ Thank you for joining us for the workshop! We wanted to give you some resources 
   - [TryValley Balloon project - Science from some idiots](https://www.youtube.com/channel/UCK0MQpBM3eZti4WmKj5qICQ)
 - [Overlook Horizon](https://www.overlookhorizon.com/how-to-launch-weather-balloons/)
 - [Kaymont Balloons](https://www.kaymont.com/resources)
+- [visualization of global weather conditions - Super cool view of weather scaled by altitude](https://earth.nullschool.net/)
 
 ## Arduino
 
